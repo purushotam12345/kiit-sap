@@ -1,0 +1,26 @@
+/* .sap{
+    background-color: springgreen;
+    color: white;
+    border: 2px springgreen;
+    margin: 10px;
+    padding: 20px;
+} */
+
+.upper{
+    /* border: 2px solid black; */
+    display: flex;
+    gap: 1rem;
+    background-color:springgreen;
+    width: 100vw;
+    color: aliceblue;
+    flex-wrap: wrap;
+}
+.lower{
+    background-origin: padding-box;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    border: 2px black;
+    color:black
+    
+}
